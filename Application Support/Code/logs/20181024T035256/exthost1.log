@@ -1,0 +1,32 @@
+[2018-10-24 03:53:02.027] [exthost1] [info] extension host started
+[2018-10-24 03:53:02.074] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.074] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/out/extension
+[2018-10-24 03:53:02.088] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.088] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2018-10-24 03:53:02.170] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.170] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2018-10-24 03:53:02.532] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.532] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/out/extension
+[2018-10-24 03:53:02.558] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.558] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/search-rg/out/extension
+[2018-10-24 03:53:02.572] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.572] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.60/out/src/extension
+[2018-10-24 03:53:02.599] [exthost1] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.599] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/kube.42header-0.42.9/out/src/extension
+[2018-10-24 03:53:02.616] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.616] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2018-10-24 03:53:02.618] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.618] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/robertohuertasm.vscode-icons-7.27.0/out/src/
+[2018-10-24 03:53:02.759] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-10-24 03:53:02.759] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/vscodevim.vim-0.16.11/out/extension
+[2018-10-24 03:53:03.314] [exthost1] [info] eager extensions activated
+[2018-10-24 03:53:17.252] [exthost1] [info] ExtensionService#_doActivateExtension austin.code-gnu-global {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-10-24 03:53:17.252] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/austin.code-gnu-global-0.2.2/out/src/extension
+[2018-10-24 03:53:17.287] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-10-24 03:53:17.287] [exthost1] [info] ExtensionService#loadCommonJSModule /Users/onahiz/.vscode/extensions/ms-vscode.cpptools-0.19.0/out/src/main
+[2018-10-24 04:02:16.712] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-24 04:02:16.712] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/out/extension
+[2018-10-24 04:02:16.730] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-24 04:02:16.730] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-10-24 04:02:16.873] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-24 04:02:16.873] [exthost1] [info] ExtensionService#loadCommonJSModule /private/var/folders/zz/zyxvpxvq6csfxvn_n000069w0001kg/T/AppTranslocation/3A6746B5-9BE0-4BC8-8CBF-554A74C097EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension

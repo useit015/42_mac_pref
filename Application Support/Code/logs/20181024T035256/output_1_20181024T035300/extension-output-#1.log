@@ -1,0 +1,585 @@
+Looking for git in: /usr/bin/git
+Using git 2.14.3 (Apple Git-98) from /usr/bin/git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /Users/onahiz/Desktop/Fillit
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :srcs/check_block.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :testerror.fillit
+> git show :test2.fillit
+> git show :testerror.fillit
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/main.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :block.fillit
+> git ls-files --stage -- ./
+> git add -A -- .
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :block.fillit
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :block.fillit
+> git push origin master:master
+vogsphere: (INFO) Transaction ID : 737eb7a5-a6bd-4640-8bbe-ba9b0ac271f9
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 03:57:51, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+To vogsphere.1337.ma:intra/2018/activities/fillit/zoulhafi
+   5b70cfd..98a4689  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :block.fillit
+> git show :srcs/main.c
+> git fetch
+vogsphere: (INFO) Transaction ID : 8962c605-6b33-48f1-ace7-71dc5e82ced1
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:00:30, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/main.c
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+vogsphere: (INFO) Transaction ID : a110d069-56b1-4e55-934a-8e64a0af2f13
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:03:31, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git fetch
+vogsphere: (INFO) Transaction ID : 20784884-97d7-4b85-a413-099e95a198a0
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:06:31, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git fetch
+vogsphere: (INFO) Transaction ID : 1b6c688b-59f8-4ea6-9a84-f8ce75e06d5d
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:09:32, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git fetch
+vogsphere: (INFO) Transaction ID : 588c79a0-cf57-4a7b-9c59-c2bdfa87a9f2
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:12:33, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+vogsphere: (INFO) Transaction ID : b887b194-4358-496e-a5ea-ffd646ca2d0d
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:15:34, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git pull --tags origin master
+vogsphere: (INFO) Transaction ID : 9f8f1696-2f76-4b10-a131-2e8aac37921d
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:16:12, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+From vogsphere.1337.ma:intra/2018/activities/fillit/zoulhafi
+ * branch            master     -> FETCH_HEAD
+   98a4689..f3659b3  master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git check-ignore -z --stdin
+> git show :srcs/print_tetriminoes1.c
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+vogsphere: (INFO) Transaction ID : 16d65b5c-6252-421b-99a5-f137b35cf493
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:18:34, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git show :srcs/check_tetriminoes1.c
+> git show :srcs/check_tetriminoes2.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/check_block.c
+> git fetch
+vogsphere: (INFO) Transaction ID : 618c46b4-4dfe-442c-a58a-7ed9a5d4ddeb
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:21:35, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/check_block.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/check_input.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/utility.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes2.c
+> git ls-files --stage -- srcs/
+> git fetch
+vogsphere: (INFO) Transaction ID : 20e41d88-adb6-4235-87c7-c18f39204b0d
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:24:36, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes1.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/print_tetriminoes1.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/main.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/utility.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/utility.c
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/utility.c
+> git push origin master:master
+vogsphere: (INFO) Transaction ID : 68dbea21-27f7-42de-861e-d6bbd9d51b5b
+vogsphere: (INFO) Please mention this ID in any ticket you create concerning this transaction
+vogsphere: (INFO) This transaction has been started at 2018-10-24 04:26:18, server time.
+vogsphere: (INFO) Rights will be determined using this time, so do NOT cut the connection.
+vogsphere: (INFO) It appears you are onahiz. If that's not true, check your Kerberos tickets (klist)
+vogsphere: (INFO) You have read and write rights on this repository
+To vogsphere.1337.ma:intra/2018/activities/fillit/zoulhafi
+   f3659b3..263ce10  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :srcs/utility.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

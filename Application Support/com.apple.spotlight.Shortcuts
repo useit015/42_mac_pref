@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ch</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T00:19:22Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>chr</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T22:29:00Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>it</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>iTerm</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T08:14:13Z</date>
+		<key>URL</key>
+		<string>file:///Applications/iTerm.app/</string>
+	</dict>
+	<key>ite</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>iTerm</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T22:28:23Z</date>
+		<key>URL</key>
+		<string>file:///Applications/iTerm.app/</string>
+	</dict>
+	<key>iter</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>iTerm</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T23:44:16Z</date>
+		<key>URL</key>
+		<string>file:///Applications/iTerm.app/</string>
+	</dict>
+	<key>termina</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Terminal</string>
+		<key>LAST_USED</key>
+		<date>2018-10-21T07:53:36Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Terminal.app/</string>
+	</dict>
+</dict>
+</plist>

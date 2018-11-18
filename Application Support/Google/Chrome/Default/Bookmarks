@@ -1,0 +1,58 @@
+{
+   "checksum": "bd8bdb90837d3778ea7c3e58dd17b729",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13184823181222103",
+         "date_modified": "13138159322722932",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13184823181222108",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "2",
+      "synced": {
+         "children": [ {
+            "date_added": "13158028279369121",
+            "id": "5",
+            "name": "Eloquent JavaScript",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://eloquentjavascript.net/"
+         }, {
+            "date_added": "13183178994331488",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13183178994331606"
+            },
+            "name": "Table de caractères Unicode®",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://unicode-table.com/fr/#007F"
+         }, {
+            "date_added": "13185475408982380",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13185475408983243"
+            },
+            "name": "A printf format reference page (cheat sheet) | alvinalexander.com",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://alvinalexander.com/programming/printf-format-cheat-sheet"
+         } ],
+         "date_added": "13184823181222108",
+         "date_modified": "13185475408982380",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

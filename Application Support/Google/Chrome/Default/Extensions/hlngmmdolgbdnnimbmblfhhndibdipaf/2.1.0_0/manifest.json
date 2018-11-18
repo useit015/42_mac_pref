@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": "icons/icon48.png",
+      "default_popup": "src/browser_action/browser_action.html",
+      "default_title": "Woorank"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://www.woorank.com",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+FAdjHobxPdeyHvwJIc3oSSUIIGuI3SIiWKuLiSaqugqKxPB6TbKgO4KtSCGCw9WG0uNn+2WINbfvqRAVA5T8LL1Rs2JWy2OVyUN+vGmDXvvU3zMnHOOzi2SOXLpwGhGxSS8IHZPzokiWCuQldTwWYTKQpcux1zR1zQL1oi/Z6wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_title__",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0"
+}

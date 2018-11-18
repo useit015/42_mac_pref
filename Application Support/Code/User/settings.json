@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": false
+}

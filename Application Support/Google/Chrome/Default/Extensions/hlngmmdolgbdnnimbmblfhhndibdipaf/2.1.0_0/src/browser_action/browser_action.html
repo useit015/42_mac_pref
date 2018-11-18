@@ -1,0 +1,47 @@
+<!doctype html>
+<style type="text/css">
+  body {
+    margin:0px; 
+  }
+
+  #mainPopup {
+    height: 50px;
+    width: 50px;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+  }
+
+  #mainPopup.review-loaded {
+    height:600px;
+    width:780px;
+  }
+
+  iframe {
+    width:100%;
+    height:100%;
+    border:0;
+  }
+
+  .hidden {
+    display: none; 
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  .loader img{
+    margin-left:10px;
+    margin-top:10px;
+    width:30px;
+    height:30px;
+  }
+</style>
+<script src="popup.js"></script>
+
+<div id="mainPopup" class='woo-js-popup'>
+  <div class="loader">
+    <img src="loader.svg" alt="loading" />
+  </div>
+</div>

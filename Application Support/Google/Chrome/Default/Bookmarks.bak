@@ -1,0 +1,104 @@
+{
+   "checksum": "91f97b2fdca1cab8b2c754d71ce08633",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13136440945095848",
+            "id": "7",
+            "name": "Happy Trunk Apparel - Amazing Bohemian Jewelry For A Good Cause",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://happytrunkapparel.com/"
+         }, {
+            "date_added": "13136596211543980",
+            "id": "8",
+            "name": "Breakout Gear",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://breakoutgear.com/"
+         }, {
+            "date_added": "13137040535541064",
+            "id": "9",
+            "name": "Explorers Depot",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.explorersdepot.com/"
+         }, {
+            "date_added": "13137041948753528",
+            "id": "10",
+            "name": "Luv Gizmo - Gadgets and Gizmos Galore",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://luvgizmo.com/"
+         }, {
+            "date_added": "13137060540762407",
+            "id": "11",
+            "name": "Bachelor Hut",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.bachelorhut.com/"
+         }, {
+            "date_added": "13137906254420530",
+            "id": "12",
+            "name": "Odditymall: Unique Gifts | Unusual Gift Ideas",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://odditymall.com/"
+         }, {
+            "date_added": "13137911644526578",
+            "id": "13",
+            "name": "Awesomest Stuffs Just Only For You – buzz79",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://buzz79.com/"
+         }, {
+            "date_added": "13138159322722932",
+            "id": "14",
+            "name": "24 Trending",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.24-trending.com/"
+         } ],
+         "date_added": "13184823181222103",
+         "date_modified": "13138159322722932",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13184823181222108",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [ {
+            "date_added": "13158028279369121",
+            "id": "5",
+            "name": "Eloquent JavaScript",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://eloquentjavascript.net/"
+         }, {
+            "date_added": "13183178994331488",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13183178994331606"
+            },
+            "name": "Table de caractères Unicode®",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://unicode-table.com/fr/#007F"
+         } ],
+         "date_added": "13184823181222108",
+         "date_modified": "13183178994331488",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
